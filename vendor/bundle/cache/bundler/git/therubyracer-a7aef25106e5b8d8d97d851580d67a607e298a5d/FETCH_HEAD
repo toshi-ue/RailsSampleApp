@@ -1,0 +1,78 @@
+e6d67c74082b8be3c86e6e6984599f37d72607a4		branch '4.5/add-ruby-finalizers-to-v8-objects' of github:cowboyd/therubyracer
+397d940569e601f8b90e2919f1ca27f01235a3e0		branch '4.5/fix-int-conversion' of github:cowboyd/therubyracer
+8e39f0711257115d718ac59d87b3642096d6a24a		branch '4.5/fix-weakmap-entry-leakage' of github:cowboyd/therubyracer
+1953a6dfe918e15cf0446cd6fd225bc4f9a83c87		branch '4.5/identity-map-with-v8-finalization' of github:cowboyd/therubyracer
+b29c94f0874c406959dda234f8c2ec9f67662651		branch '4.5/preemption' of github:cowboyd/therubyracer
+02c8b989a689501f21b45735b9dc9b7db54d6b26		branch 'master' of github:cowboyd/therubyracer
+b8445ae755a31fc11fe88bda0d10623d0a032fcb		branch 'upgrade-to-v8-4.5' of github:cowboyd/therubyracer
+e13f662e63f7065f42c5acf27b10e0aec391c1ab	not-for-merge	tag '0.4.1' of github:cowboyd/therubyracer
+7fe378fa0ef46c649b566e2cafdb21bd2df288f8	not-for-merge	tag '0.4.2' of github:cowboyd/therubyracer
+63ad2a239d9b2b55ebb53fd41dca4e364e3b6958	not-for-merge	tag '0.4.3' of github:cowboyd/therubyracer
+abe3f3ba497fe2ce82b38549c0bab2053755bd62	not-for-merge	tag '0.4.4' of github:cowboyd/therubyracer
+1bca954576fe9bc2ec82e4a4ce45a72a4abc08f2	not-for-merge	tag '0.4.5' of github:cowboyd/therubyracer
+4fa80b582da0a97f5b0cd44a9928bd7bed969ba8	not-for-merge	tag '0.4.6' of github:cowboyd/therubyracer
+205c52c5bfaf9cd114c765d77e17f0aa5ccd1ecd	not-for-merge	tag '0.4.7' of github:cowboyd/therubyracer
+ae3f78a21eab4dddfcc48b28a44cc51a26174bc1	not-for-merge	tag '0.4.8' of github:cowboyd/therubyracer
+1ec71dbca53df86728f2fc5d2763445fd61f1884	not-for-merge	tag '0.4.9' of github:cowboyd/therubyracer
+3ef6f0355a53dad217763a46e1b503b44af3933b	not-for-merge	tag '0.5.1' of github:cowboyd/therubyracer
+e419a73d544de2ea1e4e6b1bc009536ff42502fb	not-for-merge	tag '0.5.2' of github:cowboyd/therubyracer
+efdb6c807d94fd36039543d5c18dcc43a50d3d27	not-for-merge	tag '0.5.3' of github:cowboyd/therubyracer
+c26ff5d658bfdab3753b081d184c8e4b0c4c7f78	not-for-merge	tag '0.5.4' of github:cowboyd/therubyracer
+1bc3d650eea113106e52b98a8855ce7d5c627a76	not-for-merge	tag '0.5.5' of github:cowboyd/therubyracer
+e3821aaf9a33230709879c5867360723bb617cd5	not-for-merge	tag '0.6.0' of github:cowboyd/therubyracer
+d09499c93066bc02422c53e37293efa6580b3f8b	not-for-merge	tag '0.6.1' of github:cowboyd/therubyracer
+537ae797a653e04c66f048d28987958c6b440f0e	not-for-merge	tag '0.6.2' of github:cowboyd/therubyracer
+5cbab6e5985421a8fe7eff65d60331c4d4023c3c	not-for-merge	tag '0.6.3' of github:cowboyd/therubyracer
+542f4ebde541a09d97eba59ee0daac8a65c15532	not-for-merge	tag '0.7.0' of github:cowboyd/therubyracer
+ed1d49ad7e7cd9aec05d75f89480711c4bbbfc49	not-for-merge	tag '0.7.1' of github:cowboyd/therubyracer
+2e7f3e1358e7968b105677d99a948f85c1596e70	not-for-merge	tag '0.7.2' of github:cowboyd/therubyracer
+991e671d1d86e72531c8e218c0b01ffb42693af5	not-for-merge	tag '0.7.3' of github:cowboyd/therubyracer
+6a27f172ec6ad6522d6a8ca7ffedc5cef501e3a1	not-for-merge	tag '0.7.5' of github:cowboyd/therubyracer
+1ae132a14e7c5325add1610f9e4eb1c1a3ea7555	not-for-merge	tag '0.8.0' of github:cowboyd/therubyracer
+d627fbdbab8d7939709077b6e43cf954908a0c57	not-for-merge	tag 'lockingv1' of github:cowboyd/therubyracer
+b5e02451fe3251075c3b9f4d116d66784b9c4553	not-for-merge	tag 'v0.10.0' of github:cowboyd/therubyracer
+056ec5ebdee0d8dc1e467338c246a7e44e5f0dea	not-for-merge	tag 'v0.10.0beta1' of github:cowboyd/therubyracer
+92c508969d4ec4951fc1ae5bd9832d9abf6b05bc	not-for-merge	tag 'v0.10.1' of github:cowboyd/therubyracer
+0c258be8b59305e19e02c9689d8755c0c02ef474	not-for-merge	tag 'v0.10.2' of github:cowboyd/therubyracer
+ea8079f4a20d2a6a981046eb51d14f955f0d158f	not-for-merge	tag 'v0.10.2beta1' of github:cowboyd/therubyracer
+54c56f6508839b77721d6ee7be988d3c983ad184	not-for-merge	tag 'v0.11.0' of github:cowboyd/therubyracer
+82d7d1922a75075236e3f3dee55556a72aee9c8c	not-for-merge	tag 'v0.11.0beta1' of github:cowboyd/therubyracer
+fb16ee0e577c2b035eabb0e1b13c2fd7204ee76e	not-for-merge	tag 'v0.11.0beta2' of github:cowboyd/therubyracer
+3b35492a092a264626a76a72404e835a7f092e44	not-for-merge	tag 'v0.11.0beta3' of github:cowboyd/therubyracer
+853845c5e1eafe232f81c5f1859fa8e8e11070d9	not-for-merge	tag 'v0.11.0beta4' of github:cowboyd/therubyracer
+02a3ce3af6d7ca14c805209588789c704d6c8608	not-for-merge	tag 'v0.11.0beta5' of github:cowboyd/therubyracer
+ef3b6c824745451741af55ad5ce851441e37e93a	not-for-merge	tag 'v0.11.0beta6' of github:cowboyd/therubyracer
+a7b2b5bb94f46cc3de8daad3930d323db488f336	not-for-merge	tag 'v0.11.0beta7' of github:cowboyd/therubyracer
+a226a054438d37f7644bafea083c72bf5dff17bf	not-for-merge	tag 'v0.11.0beta8' of github:cowboyd/therubyracer
+63d77e71cdc42f84704e6f136e72a53d45f4fba7	not-for-merge	tag 'v0.11.1' of github:cowboyd/therubyracer
+8b6e08cda6ba352bddb18c4ab67b96dd5aeaa95e	not-for-merge	tag 'v0.11.1beta1' of github:cowboyd/therubyracer
+10b7bd55f69f57a9cf19f8af81adf279a7cdff60	not-for-merge	tag 'v0.11.2' of github:cowboyd/therubyracer
+4c58fff920fd939395a71db62abecd3a58e512ef	not-for-merge	tag 'v0.11.3' of github:cowboyd/therubyracer
+6189f7baa359f9837522f6c13d90de0c9d4b0324	not-for-merge	tag 'v0.11.4' of github:cowboyd/therubyracer
+59e05457d6877d8ecb5c3c8a4fbb522119d60f7a	not-for-merge	tag 'v0.12.0' of github:cowboyd/therubyracer
+d898c816a8788c830a206b26df41db9134d651d7	not-for-merge	tag 'v0.12.1' of github:cowboyd/therubyracer
+4b29a32ecb06a4454bf88075d403ee8f9c735f04	not-for-merge	tag 'v0.12.2' of github:cowboyd/therubyracer
+583d2d2b9c0fbd883f19e771519588c6de7b46ac	not-for-merge	tag 'v0.12.3' of github:cowboyd/therubyracer
+290084f6ae0528802369a34392f2d63adfc4ef12	not-for-merge	tag 'v0.8.1' of github:cowboyd/therubyracer
+af86411a6a8dfe3d4c277588ea358cc0894e3020	not-for-merge	tag 'v0.8.2' of github:cowboyd/therubyracer
+18a8f28bb52820b6caa0d25b43eb23abc9b70b6b	not-for-merge	tag 'v0.9.0' of github:cowboyd/therubyracer
+1ff731519301951986f49fac45739e4baa715a7d	not-for-merge	tag 'v0.9.0beta1' of github:cowboyd/therubyracer
+4f78e9e99d9ba7589dab0e46be21e3705db0bdcb	not-for-merge	tag 'v0.9.0beta2' of github:cowboyd/therubyracer
+5a65c22e0f81231ddff3bd03c871edca7db1bd91	not-for-merge	tag 'v0.9.0beta3' of github:cowboyd/therubyracer
+b2b413999b8ef90b39c33bdc19c247e2f559a85d	not-for-merge	tag 'v0.9.0beta4' of github:cowboyd/therubyracer
+fce72cf489297e713bcb03a5bb9fde564cb1066e	not-for-merge	tag 'v0.9.0beta5' of github:cowboyd/therubyracer
+94242c6b2a8f5e2d5d6cdbfe70b74ba12fc0be82	not-for-merge	tag 'v0.9.0beta6' of github:cowboyd/therubyracer
+77e8e118e3110bc43924a7ebe5af2684c306396a	not-for-merge	tag 'v0.9.0beta7' of github:cowboyd/therubyracer
+2cc258639f972ca30552c9bc5db1901dc17ecbfe	not-for-merge	tag 'v0.9.1' of github:cowboyd/therubyracer
+fc96e11a2ec1463ed1240a85d13b978b48ab71e6	not-for-merge	tag 'v0.9.10' of github:cowboyd/therubyracer
+cadb5a5a8041c3fe0b32837c3fef2daefc9be2e0	not-for-merge	tag 'v0.9.1beta1' of github:cowboyd/therubyracer
+2c375348767a16eba3db064e755283b0eb898d07	not-for-merge	tag 'v0.9.2' of github:cowboyd/therubyracer
+1f87c42a5d887ebe0fa2d055c36dc6b737b7db10	not-for-merge	tag 'v0.9.2beta1' of github:cowboyd/therubyracer
+fed844b670775a7bc807de3c420615ee34fe8760	not-for-merge	tag 'v0.9.3' of github:cowboyd/therubyracer
+d93ee3fb30be16ec43e1022c10453d5de1a44e2f	not-for-merge	tag 'v0.9.3beta1' of github:cowboyd/therubyracer
+9d58c45c584ddac1b6593671333b036bbbc40510	not-for-merge	tag 'v0.9.4' of github:cowboyd/therubyracer
+9a7bb73b0bfbffee0b12fbec2edaa90e62e1e172	not-for-merge	tag 'v0.9.5' of github:cowboyd/therubyracer
+e544af7e963905cc87ed88e765c4e1624da4b692	not-for-merge	tag 'v0.9.6' of github:cowboyd/therubyracer
+6f5743f558d0393e04ed142316d90661161cdc7b	not-for-merge	tag 'v0.9.7' of github:cowboyd/therubyracer
+ee714a9b27ebd4a4faf6b8df494f5eae21af9a06	not-for-merge	tag 'v0.9.8' of github:cowboyd/therubyracer
+50589e07fd8c968e9c99600e0bde743f6b6cae10	not-for-merge	tag 'v0.9.9' of github:cowboyd/therubyracer

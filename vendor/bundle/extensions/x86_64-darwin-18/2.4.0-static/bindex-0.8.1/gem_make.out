@@ -1,0 +1,15 @@
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/Users/toshihiro/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20191004-96892-pb6j5w.rb extconf.rb
+creating Makefile
+
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20191004-96892-k9i9tf/skiptrace/internal

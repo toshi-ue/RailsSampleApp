@@ -1,0 +1,15 @@
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+/Users/toshihiro/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20191004-77666-1v33igf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20191004-77666-xdssc2

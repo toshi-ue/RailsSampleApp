@@ -1,0 +1,16 @@
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+/Users/toshihiro/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20191004-77666-1szasjz.rb extconf.rb
+
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.

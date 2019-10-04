@@ -1,0 +1,5 @@
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/rainbow-2.2.2/ext
+/Users/toshihiro/.rbenv/versions/2.4.1/bin/ruby mkrf_conf.rb
+
+current directory: /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/rainbow-2.2.2/ext
+/Users/toshihiro/.rbenv/versions/2.4.1/bin/ruby -rubygems /Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/gems/rake-12.0.0/exe/rake RUBYARCHDIR=/Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/extensions/x86_64-darwin-18/2.4.0-static/rainbow-2.2.2 RUBYLIBDIR=/Users/toshihiro/programs/ruby/books-rails5/RailsSampleApp/vendor/bundle/extensions/x86_64-darwin-18/2.4.0-static/rainbow-2.2.2

@@ -22,3 +22,8 @@
 .DS_Store
 
 public/system
+/vendor
+.vendor/
+vendor/*
+/vendor/*
+/vendor/bundle/*
