@@ -229,7 +229,7 @@ GEM
     polyamorous (2.3.0)
       activerecord (>= 5.0)
     popper_js (1.11.1)
-    puma (3.12.1)
+    puma (3.12.2)
     rack (2.0.7)
     rack-protection (2.0.7)
       rack
@@ -401,7 +401,7 @@ DEPENDENCIES
   overcommit
   paperclip (~> 5.0.0)
   popper_js (~> 1.11.1)
-  puma (~> 3.7)
+  puma (~> 3.12)
   rails (~> 5.1.3)
   rspec-rails
   rubocop

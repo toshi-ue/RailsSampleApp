@@ -21,7 +21,7 @@ gem 'therubyracer', platforms: :ruby, github: 'cowboyd/therubyracer'
 gem 'mysql2', '>= 0.3.18', '< 0.5'
 
 # server
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 3.12'
 
 # view
 gem 'bootstrap', '~> 4.0.0.beta'
